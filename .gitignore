@@ -4,3 +4,4 @@ var
 /.htaccess
 /pub/media/theme
 /package.json
+static
